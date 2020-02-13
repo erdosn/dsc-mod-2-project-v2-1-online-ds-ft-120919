@@ -1,42 +1,59 @@
 
-## Final Project Submission
+# Table Of Contents
+* [Motivation](#Motivation)
+* [Dataset Overview](#Dataset-Overview)
+* [Question 1](#Q1)
+* [Question 2](#Q2)
+* [Question 3](#Q3)
+* [Final Model](#Final-OLS-Model)
+* [Recommendations](#Recommendations)
+* [Future Work](#Future-Work)
 
-Please fill out:
-* Student name: 
-* Student pace: self paced / part time / full time
-* Scheduled project review date/time: 
-* Instructor name: 
-* Blog post URL:
+# Motivation
+In this project, I perform linear regression on the `kings_county` housing dataset. blah blah
+<img src='images/seattle-meme.jpeg' width='50%'/>
 
 
+# Dataset Overview
+<img align = 'left' src="images/dataset.png" width='25%'/>
 
-```python
-# Your code here - remember to use markdown cells for comments as well!
-```
 
-![](osemn.png)
+# Q1
+'write question 1 here'
 
-# Scrubbing Data
-What should we check for when scrubbing data
-* dtypes
-* placeholder values
-* null values
-    * how to handle them
-* outliers
+## EDA
+show some graphs
+![](images/latlon.png)
 
-# Explore
-* Ask questions first
-    * literally any question
-* Provide 4 vis that you use for gaining insight
+## Observations
+....
 
-# Modeling
-- use statsmodels to model data and check assumptions
-- after you build a well conditioned and verified model in statsmodels
-    - build it and cross validate it in sklearn
-    - plot your residuals and check their normality 
-        - check normality using QQPlot
+## Conclusion 
 
-# Interpret
-- 3 recommendations
-- Further Work
-- Overall conclusion of what you think about the housing market in kings county (seattle, wa)
+
+## Recommendation
+
+# Q2
+
+# Q3
+
+# Final OLS Model
+- Summary
+
+- Insights
+
+- Parameters
+
+- Interpretation
+
+- Residuals
+
+# Recommendations
+* 
+* 
+* 
+
+# Future Work
+* 
+* 
+* 
