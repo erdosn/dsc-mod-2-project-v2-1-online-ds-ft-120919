@@ -11,7 +11,6 @@
 
 
 # Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TVq2ivVpZgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Motivation
 In this project, I perform linear regression on the `kings_county` housing dataset. blah blah
