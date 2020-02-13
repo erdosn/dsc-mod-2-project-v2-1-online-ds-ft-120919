@@ -9,13 +9,24 @@
 * [Recommendations](#Recommendations)
 * [Future Work](#Future-Work)
 
+
+# Presentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TVq2ivVpZgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Motivation
 In this project, I perform linear regression on the `kings_county` housing dataset. blah blah
 <img src='images/seattle-meme.jpeg' width='50%'/>
 
 
 # Dataset Overview
-<img align = 'left' src="images/dataset.png" width='25%'/>
+
+<!---
+## Info
+<img align ='left' src="images/dataset.png" width='100%'/>
+--->
+
+## Null Values
+<img src='images/nan-barchart.png'/>
 
 
 # Q1
